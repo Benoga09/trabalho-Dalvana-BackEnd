@@ -1,0 +1,17 @@
+1- Qual é o foco do backend?
+2- Quais são as principais tecnologias utilizadas nesse lado do desenvolvimento web?
+3- O que são frameworks?
+4- O que liga o back-end com o front-end?
+5- Quais são os métodos HTTP e o que fazem?
+6- O que é Postman?
+7- O que é o express?
+8- Porque você se interresou por essa vaga(de desenvolvedor Back end)
+R:
+1- o foco do Back end é dar apoio e a estrutura para as ações do usuário da máquina.
+2- JavaScript, API, node.js e etc.
+3- são conjutos de ferramentas, bibliotecas e outras melhorias.
+4- SOAP, REST e GRAPHQL.
+5- REQUEST: define a ação desejada, RESPONSE: é a mensagem que é retornada ao cliente depois de processar o REQUEST.
+6- é uma ferramenta onde os usuários enviam uma requisição e são retornados com as respostas.
+7- o express é uma ferramenta framework para o node.js que facilita a criação de servidores.
+8- Benicio: acho que é a forma que mais me ajudaria a entrar no mercado. Cassiano: Veio com todo mundo.
